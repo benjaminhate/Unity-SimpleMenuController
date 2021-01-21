@@ -9,7 +9,7 @@ The MenuController will store and possibly detect all your Menus and will open t
 
 ## Components
 Simple Menu Controller adds 2 Components for Unity :
-- [Menu](Components/Menu.md)
-- [Menu Controller](Components/MenuController.md)
+- [Menu](Menu)
+- [Menu Controller](MenuController)
 
 You can check the specifications for each component on their own page
