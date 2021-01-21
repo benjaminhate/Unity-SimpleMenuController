@@ -9,7 +9,6 @@ on:
 jobs:
   docs-wiki-sync:
     runs-on: ubuntu-latest
-    container: pandoc/latex
     steps:
     - name: Checkout code
       uses: actions/checkout@master
@@ -23,4 +22,3 @@ jobs:
         destination-repository-name: 'Unity-SimpleMenuController.wiki'
         user-email: benjamin.hate.09@gmail.com
         commit-message: 'Automatic Documentation~ push'
-        target-branch: main
