@@ -13,5 +13,12 @@
         "name": "Benjamin Hate",
         "email": "benjamin.hate.09@gmail.com",
         "url": "https://github.com/benjaminhate"
-    }
+    },
+    "samples": [
+        {
+            "displayName": "Unity Sample",
+            "description": "A basic Unity Sample to show the use of Simple Menu Controller",
+            "path": "Samples~/Unity Sample"
+        }
+    ]
 }
