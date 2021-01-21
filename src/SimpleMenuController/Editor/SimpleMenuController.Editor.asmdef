@@ -1,0 +1,15 @@
+{
+    "name": "SimpleMenuController.Editor",
+    "references": [
+        "GUID:dddae412b0ff47f4dafbd0fa4edc76aa"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,17 @@
+{
+    "name": "com.bencochoco.smc",
+    "version": "1.0.0",
+    "displayName": "Simple Menu Controller",
+    "description": "A simple menu controller for opening, closing and returning from other menus",
+    "unity": "2019.4",
+    "keywords": [
+        "menu",
+        "ui",
+        "controller"
+    ],
+    "author": {
+        "name": "Benjamin Hate",
+        "email": "benjamin.hate.09@gmail.com",
+        "url": "https://github.com/benjaminhate"
+    }
+}
