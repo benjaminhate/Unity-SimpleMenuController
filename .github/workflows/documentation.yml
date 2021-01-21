@@ -13,7 +13,7 @@ jobs:
     - name: Checkout code
       uses: actions/checkout@v2
     - name: Pushes to another repository
-      uses: benjaminhate/Unity-SimpleMenuController
+      uses: benjaminhate/Unity-SimpleMenuController@main
       env:
         API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
       with:
