@@ -1,4 +1,8 @@
 - __[Home](Home)__
 - __Components__
     - __[Menu](Menu)__
+        - __Public Methods__
+            - __[Open](Menu.Open)__
+            - __[Close](Menu.Close)__
+            - __[Return](Menu.Return)__
     - __[Menu Controller](MenuController)__
