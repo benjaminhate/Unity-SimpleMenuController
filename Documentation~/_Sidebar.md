@@ -1,4 +1,4 @@
 - __[Home](Home)__
 - __Components__
-    - __[Menu](Components/Menu)__
-    - __[Menu Controller](Components/MenuController)__
+    - __[Menu](Components/Menu.md)__
+    - __[Menu Controller](Components/MenuController.md)__
