@@ -1,6 +1,7 @@
 name: Documentation wiki workflow
 
 on:
+  workflow_dispatch:
   push:
     paths:
     - 'Documentation~/**'
