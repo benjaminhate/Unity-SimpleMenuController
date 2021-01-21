@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: Pushes to another repository
-      uses: benjaminhate/Unity-SimpleMenuController@master
+      uses: benjaminhate/Unity-SimpleMenuController@main
       env:
         API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
       with:
@@ -18,4 +18,4 @@ jobs:
         destination-github-username: 'benjaminhate'
         destination-repository-name: 'Unity-SimpleMenuController.wiki'
         user-email: benjamin.hate.09@gmail.com
-        commit-message: Automatic Documentation~ push
+        commit-message: 'Automatic Documentation~ push'
