@@ -1,1 +1,1 @@
-Author : Benjamin Haté <benjamin.hate.09@gmail.com>
+Author : Benjamin Haté (<benjamin.hate.09@gmail.com>)

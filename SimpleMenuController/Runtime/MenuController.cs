@@ -4,6 +4,7 @@ using UnityEngine;
 
 namespace SimpleMenuController.Runtime
 {
+    [AddComponentMenu("Simple Menu Controller/Menu Controller")]
     public class MenuController : MonoBehaviour
     {
         [Header("Auto detect")]

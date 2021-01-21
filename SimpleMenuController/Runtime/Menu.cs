@@ -2,6 +2,7 @@
 
 namespace SimpleMenuController.Runtime
 {
+    [AddComponentMenu("Simple Menu Controller/Menu")]
     public class Menu : MonoBehaviour
     {
         [Header("Self contained menu")]

@@ -7,8 +7,9 @@ It allows to Open and Close your Menus with simple functions.
 
 The MenuController will store and possibly detect all your Menus and will open the main Menu at first.
 
-## Use the MenuController
+## Components
+Simple Menu Controller adds 2 Components for Unity :
+- [Menu](Components/Menu)
+- [Menu Controller](Components/MenuController)
 
-## Use the base Menu
-
-## Create a custom Menu
+You can check the specifications for each component on their own page
