@@ -23,7 +23,7 @@ namespace SimpleMenuController.Editor
                     continue;
                 }
 
-                if (property.name != "menus")
+                if (property.name != nameof(menuController.menus))
                 {
                     EditorGUILayout.PropertyField(property);
                 }

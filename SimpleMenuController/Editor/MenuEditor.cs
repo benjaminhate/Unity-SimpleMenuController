@@ -23,7 +23,7 @@ namespace SimpleMenuController.Editor
                     continue;
                 }
 
-                if (property.name != "menuGO")
+                if (property.name != nameof(menu.menuGameObject))
                 {
                     EditorGUILayout.PropertyField(property);
                 }
@@ -35,7 +35,7 @@ namespace SimpleMenuController.Editor
                     }
                     else
                     {
-                        menu.menuGO = menu.gameObject;
+                        menu.menuGameObject = menu.gameObject;
                     }
                 }
             } while (property.NextVisible(false));

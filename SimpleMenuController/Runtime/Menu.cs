@@ -11,13 +11,13 @@ namespace SimpleMenuController.Runtime
         
         [Header("Menu")]
         [Tooltip("The GameObject used for activation")]
-        public GameObject menuGO;
+        public GameObject menuGameObject;
 
         private void OnEnable()
         {
             if (isSelfContained)
             {
-                menuGO = gameObject;   
+                menuGameObject = gameObject;   
             }
         }
 
@@ -38,7 +38,7 @@ namespace SimpleMenuController.Runtime
 
         private void Activate(bool active)
         {
-            menuGO.SetActive(active);
+            menuGameObject.SetActive(active);
         }
         
         public virtual void Return()
