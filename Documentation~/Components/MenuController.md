@@ -1,7 +1,8 @@
 # MenuController
 
 ## Component
-> **Unity Component**: Simple Menu Controller > Menu Controller
+**Unity Component**:
+> Simple Menu Controller > Menu Controller
 
 This Component is the main controller of the package.
 
