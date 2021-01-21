@@ -1,7 +1,7 @@
 # Menu
 
 ## Component
-**Unity Component**: Simple Menu Controller > Menu
+> **Unity Component**: Simple Menu Controller > Menu
 
 This Component is the base for constructing menus.
 
