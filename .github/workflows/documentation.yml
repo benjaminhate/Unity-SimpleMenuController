@@ -9,9 +9,10 @@ on:
 jobs:
   docs-wiki-sync:
     runs-on: ubuntu-latest
+    container: pandoc/latex
     steps:
     - name: Checkout code
-      uses: actions/checkout@v2
+      uses: actions/checkout@master
     - name: Pushes to another repository
       uses: benjaminhate/Unity-SimpleMenuController@main
       env:
