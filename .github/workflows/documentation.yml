@@ -9,6 +9,8 @@ jobs:
   docs-wiki-sync:
     runs-on: ubuntu-latest
     steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
     - name: Pushes to another repository
       uses: benjaminhate/Unity-SimpleMenuController@main
       env:
