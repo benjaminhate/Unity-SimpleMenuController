@@ -14,7 +14,7 @@ jobs:
     - name: Checkout code
       uses: actions/checkout@master
     - name: Pushes to another repository
-      uses: benjaminhate/Unity-SimpleMenuController@main
+      uses: cpina/github-action-push-to-another-repository@master
       env:
         API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
       with:
