@@ -18,4 +18,4 @@ jobs:
         destination-github-username: 'benjaminhate'
         destination-repository-name: 'Unity-SimpleMenuController.wiki'
         user-email: benjamin.hate.09@gmail.com
-        commit-message: Automatic Documentation~ push
+        commit-message: 'Automatic Documentation~ push'
