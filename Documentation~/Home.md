@@ -7,6 +7,9 @@ It allows to Open and Close your Menus with simple functions.
 
 The MenuController will store and possibly detect all your Menus and will open the main Menu at first.
 
+## Installation
+See how you can install this Unity package on [this](Installation) page.
+
 ## Components
 Simple Menu Controller adds 2 Components for Unity :
 - [Menu](Menu)

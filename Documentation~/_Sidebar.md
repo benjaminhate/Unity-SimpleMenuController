@@ -1,4 +1,5 @@
 - __[Home](Home)__
+- __[Installation](Installation)__
 - __Components__
     - __[Menu](Menu)__
         - __Public Methods__

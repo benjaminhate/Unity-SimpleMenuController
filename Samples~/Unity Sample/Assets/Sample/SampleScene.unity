@@ -2442,7 +2442,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isSelfContained: 1
-  menuGameObject: {fileID: 0}
+  menuGameObject: {fileID: 1830075691}
 --- !u!1 &2033016776
 GameObject:
   m_ObjectHideFlags: 0
