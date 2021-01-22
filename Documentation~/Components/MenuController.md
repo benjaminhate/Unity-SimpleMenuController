@@ -23,6 +23,6 @@ You can see in the pictures bellow how the [Menu Controller](MenuController) com
 
 If the **"Auto Detect Menus"** property is disabled, you must reference the **"Menus"** property and add manually all [Menu](Menu) that you wish to control with this controller.
 
-![Image not found](https://github.com/benjaminhate/Unity-SimpleMenuController/raw/main/Documentation~/components/Images/Menu%20Controller%20-%20not%20Auto%20detect.PNG "Menu Controller, not auto detect")
+![Image not found](https://github.com/benjaminhate/Unity-SimpleMenuController/raw/main/Documentation~/Components/Images/Menu%20Controller%20-%20not%20Auto%20detect.PNG "Menu Controller, not auto detect")
 
-![Image not found](https://github.com/benjaminhate/Unity-SimpleMenuController/raw/main/Documentation~/components/Images/Menu%20Controller%20-%20Auto%20detect.PNG "Menu Controller, auto detect")
+![Image not found](https://github.com/benjaminhate/Unity-SimpleMenuController/raw/main/Documentation~/Components/Images/Menu%20Controller%20-%20Auto%20detect.PNG "Menu Controller, auto detect")

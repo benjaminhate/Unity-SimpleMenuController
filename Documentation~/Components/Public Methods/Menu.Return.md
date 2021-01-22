@@ -20,4 +20,4 @@ You can easily call with method in a button UI.
 The following picture shows how to reference to Return function and what arguments to put.
 The **green** section references the **current** Menu, e.g the Menu that contains the button.
 
-![alt text](https://github.com/benjaminhate/Unity-SimpleMenuController/raw/main/Documentation~/components/Public%20Methods/Images/Menu%20-%20Return%20button%20UI.png "Return button UI")
+![Image not Found](https://github.com/benjaminhate/Unity-SimpleMenuController/raw/main/Documentation~/Components/Public%20Methods/Images/Menu%20-%20Return%20button%20UI.PNG "Return button UI")

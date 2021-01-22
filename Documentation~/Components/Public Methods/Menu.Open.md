@@ -19,4 +19,4 @@ The following picture shows how to reference to Open function and what arguments
 The **green** section references the Menu you want to **open**.
 The **blue** section references the **previous** Menu, e.g the Menu that contains the button.
 
-![alt text](https://github.com/benjaminhate/Unity-SimpleMenuController/raw/main/Documentation~/components/Public%20Methods/Images/Menu%20-%20Open%20button%20UI.png "Open button UI")
+![Image not found](https://github.com/benjaminhate/Unity-SimpleMenuController/raw/main/Documentation~/Components/Public%20Methods/Images/Menu%20-%20Open%20button%20UI.PNG "Open button UI")
