@@ -27,3 +27,22 @@ You can add this Component to a GameObject corresponding to your menu.
 For your buttons, you can use the [Open](Menu.Open) method to open an other [Menu](Menu) or use the [Return](Menu.Return) method to return to the previous [Menu](Menu).
 
 ## Example
+
+### Base Menu
+
+You can see in the pictures bellow how the [Menu](Menu) component is attached to a Unity GameObject.
+
+If the **"Is Self Contained"** property is disabled, you must reference the **"Menu Game Object"** property and add manually the Unity GameObject you want to control with this [Menu](Menu).
+
+![alt text](https://github.com/benjaminhate/Unity-SimpleMenuController/raw/main/Documentation~/components/Images/Base%20Menu%20-%20not%20Self%20Contained%20.png "Base Menu, not self contained")
+
+![alt text](https://github.com/benjaminhate/Unity-SimpleMenuController/raw/main/Documentation~/components/Images/Base%20Menu%20-%20Self%20Contained%20.png "Base Menu, self contained")
+
+### Custom Menu
+
+You can create custom [Menu](Menu) by inherit the [Menu](Menu) base class.
+
+In the example bellow, you can see a Main Menu that inherit the [Menu](Menu) base class.
+You can add custom property in addition to the base properties defined by the [Menu](Menu) class.
+
+![alt text](https://github.com/benjaminhate/Unity-SimpleMenuController/raw/main/Documentation~/components/Images/Custom%20Menu.png "Custom Menu")

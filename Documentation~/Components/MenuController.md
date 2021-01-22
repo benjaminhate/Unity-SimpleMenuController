@@ -18,3 +18,11 @@ This Component is only used at start, to activate the main menu.
 When the MenuController starts, it will [Close](Menu.Close) all menus referenced or auto-detected and will [Open](Menu.Open) the main menu.
 
 ## Example
+
+You can see in the pictures bellow how the [Menu Controller](MenuController) component is attached to a Unity GameObject.
+
+If the **"Auto Detect Menus"** property is disabled, you must reference the **"Menus"** property and add manually all [Menu](Menu) that you wish to control with this controller.
+
+![alt text](https://github.com/benjaminhate/Unity-SimpleMenuController/raw/main/Documentation~/components/Images/Menu%20Controller%20-%20not%20Auto%20detect.png "Menu Controller, not auto detect")
+
+![alt text](https://github.com/benjaminhate/Unity-SimpleMenuController/raw/main/Documentation~/components/Images/Menu%20Controller%20-%20Auto%20detect.png "Menu Controller, auto detect")

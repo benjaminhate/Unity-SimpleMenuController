@@ -596,7 +596,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   autoDetectMenus: 1
-  menus: []
+  menus:
+  - {fileID: 0}
 --- !u!114 &604150223
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2235,7 +2236,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isSelfContained: 1
-  menuGameObject: {fileID: 0}
+  menuGameObject: {fileID: 1753235294}
 --- !u!114 &1753235297
 MonoBehaviour:
   m_ObjectHideFlags: 0
