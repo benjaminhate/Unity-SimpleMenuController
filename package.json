@@ -1,6 +1,6 @@
 {
     "name": "com.bencochoco.smc",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "displayName": "Simple Menu Controller",
     "description": "A simple menu controller for opening, closing and returning from other menus",
     "unity": "2019.4",
